@@ -7,7 +7,7 @@ This is the official GitHub Repo for the paper _Assessing Privacy Risks of Attri
 ## Datasets
 Different datasets used for this work:
  * [Androids Depression Corpus](https://github.com/androidscorpus/data?tab=readme-ov-file) to train the target model and white box attackers. We did further preporcessing for the data, such as:
-                 - Segmentation
+  - Segmentation
    
  * Common voice mozilla in [English and Italy](https://commonvoice.mozilla.org/en/datasets) to train the attacker models. Here is the the name of audio recording that is been used in [English]() and [Italian]() languges.   
 
