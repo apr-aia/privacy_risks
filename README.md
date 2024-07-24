@@ -1,7 +1,5 @@
 # Assessing Privacy Risks of Attribute Inference Attacks against Speech-based Depression Detection System
 
-## Overview
-
 This is the official GitHub Repo for the paper _Assessing Privacy Risks of Attribute Inference Attacks against Speech-based Depression Detection System_. 
 
 ## Datasets
