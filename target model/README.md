@@ -1,1 +1,1 @@
-Experiments are run on five-fold iterations. The results for the target model, whether multimodal or unimodal, are recorded by taking the average of the five sessions. The distribution of data across the five sessions is shown in the file "data_distributed_among_sessions.csv".
+Experiments are run on five-fold iterations. The results for the target model, whether multimodal or unimodal, are recorded by taking the average of the five sessions. The distribution of data across the five sessions is shown in the file "data distributed among sessions.csv".
