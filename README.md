@@ -10,7 +10,6 @@ Different datasets were used for this work:
 * Common Voice Mozilla in [English and Italy](https://commonvoice.mozilla.org/en/datasets) to train the attacker models. Here are the names of the audio recordings that were used in [English](https://www.dropbox.com/scl/fi/4owx5impep0tccwtut805/english.zip?rlkey=y4s7kjlu5lzdmkxoac731wz4u&st=q0hkslop&dl=0) and [Italian](https://www.dropbox.com/scl/fi/gdatoaw3f30cjb6fggg0u/italy.zip?rlkey=2qnvzbeqwn3z08va5acivt7wj&st=wdpobzs0&dl=0) languages.
 
 
-%## Requirements
 
 
 ## Citation
