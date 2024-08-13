@@ -1,1 +1,1 @@
-
+White-box attacker models for gender, age, and education are available. You can download the weights of the attackers; for example, the gender folder contains unimodal (audio and text) and multimodal attackers. The same applies to the age and education attributes.
