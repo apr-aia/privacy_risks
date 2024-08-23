@@ -1,6 +1,6 @@
 # Assessing Privacy Risks of Attribute Inference Attacks against Speech-based Depression Detection System
 
-This is the official GitHub Repo for the paper: [Assessing Privacy Risks of Attribute Inference Attacks against Speech-based Depression Detection System](./ecai_attribute_attack.pdf) . 
+This is the official GitHub Repo for the paper: [Assessing Privacy Risks of Attribute Inference Attacks against Speech-based Depression Detection System](ecai_attribute_attack.pdf) . 
 
 ## Datasets
 
